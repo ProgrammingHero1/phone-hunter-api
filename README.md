@@ -1,9 +1,5 @@
 # phone-hunter
 
-## [https://classroom.github.com/a/g07c2bjh](https://classroom.github.com/a/g07c2bjh)
-
-### Private Repo Link: [https://classroom.github.com/a/g07c2bjh](https://classroom.github.com/a/g07c2bjh)
-
 ## API Links
 
 ### Phone Search
