@@ -1,4 +1,4 @@
-# phone-hunter
+# phone-hunter-api
 
 ## API Links
 
